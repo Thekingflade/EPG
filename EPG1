@@ -1,0 +1,990 @@
+<tv generator-info-name="Vind" generator-info-url="https://xmltv.se">
+<channel id="6-eren.dk">
+<display-name lang="da">6'eren</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="action.cmore.dk">
+<display-name lang="da">C More Stars (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="adultchannel.co.uk">
+<display-name lang="en">Adult Channel</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="animalplanet.discovery.eu">
+<display-name lang="en">Animal Planet (English)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="arte.de">
+<display-name lang="de">ARTE</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="bbcentertainment.dk">
+<display-name lang="en">BBC Brit (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="bbcworldnews.com">
+<display-name lang="en">BBC World News</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="bielefeld.wdr.daserste.de">
+<display-name lang="de">WDR Bielefeld</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="bornholm.p4.dr.dk">
+<display-name lang="da">DR P4 Bornholm</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="br-klassik.daserste.de">
+<display-name lang="de">BR-KLASSIK</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="bw.swr.daserste.de">
+<display-name lang="de">SWR BW</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="canal9.dk">
+<display-name lang="da">CANAL9</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="charlie.tv2.dk">
+<display-name lang="da">TV2 Charlie</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="classic.vh1.se">
+<display-name lang="en">VH1 Classic Europe</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="dance.mtv.se">
+<display-name lang="en">MTV Dance</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="discovery.dk">
+<display-name lang="da">Discovery Channel (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="dk.eonline.com">
+<display-name lang="en">E! Entertainment (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="docubox.spi.pl">
+<display-name lang="en">DocuBox</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="dr1.dr.dk">
+<display-name lang="da">DR1</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="dr2.dr.dk">
+<display-name lang="da">DR2</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="dusseldorf.wdr.daserste.de">
+<display-name lang="de">WDR Dusseldorf</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="einsextra.daserste.de">
+<display-name lang="de">tagesschau24</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="emotion.cmore.dk">
+<display-name lang="da">C More Stars HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="en.tlc.discovery.dk">
+<display-name lang="en">TLC (DK) (English)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="eroxxx.spi.pl">
+<display-name lang="en">Eroxxx</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="essen.wdr.daserste.de">
+<display-name lang="de">WDR Essen</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="europa.tve.es">
+<display-name lang="en">TVE Internacional Europa</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="europe.bluehustler.com">
+<display-name lang="en">Blue Hustler</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="europe.daringtv.com">
+<display-name lang="en">Private TV</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="europe.playboytv.com">
+<display-name lang="en">Playboy TV Europe</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="eurosport.dk">
+<display-name lang="da">Eurosport (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="explorehd.viasat.dk">
+<display-name lang="en">Viasat Explore HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="extremesports.com">
+<display-name lang="en">Extreme Sports</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="family.film.viasat.dk">
+<display-name lang="da">V film family (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="fastandfun.spi.pl">
+<display-name lang="en">Fast & Fun Box</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="film.tv4.se">
+<display-name lang="sv">TV4 Film</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="filmboxbasic.spi.pl">
+<display-name lang="en">FilmBox Basic (RO)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="filmboxhd.spi.pl">
+<display-name lang="en">FilmBox Stars (RO)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="filmboxpremium.spi.pl">
+<display-name lang="en">FilmBox Premium (RO)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="fr.france24.com">
+<display-name lang="en">France24 (French)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="fri.tv2.dk">
+<display-name lang="da">TV2 FRI</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="ft.dk">
+<display-name lang="da">Folketinget</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="fyn.p4.dr.dk">
+<display-name lang="da">DR P4 Fyn</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="god.tv">
+<display-name lang="en">GOD TV</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="gospel.tv">
+<display-name lang="en">Gospel Channel</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="h2.historytv.dk">
+<display-name lang="en">H2 (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.6-eren.dk">
+<display-name lang="en">6'eren HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.arte.de">
+<display-name lang="en">ARTE HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.bbcknowledge.dk">
+<display-name lang="en">BBC Earth HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.discovery.dk">
+<display-name lang="en">Discovery Channel HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.first.cmore.dk">
+<display-name lang="da">C More First HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.kabel1.de">
+<display-name lang="en">kabel eins HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.mezzo.tv">
+<display-name lang="en">Mezzo Live HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.prosieben.de">
+<display-name lang="en">ProSieben HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.sat1.de">
+<display-name lang="en">SAT.1 HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.tv2.dk">
+<display-name lang="en">TV2 HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.zdf.de">
+<display-name lang="en">ZDF</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="historyhd.viasat.dk">
+<display-name lang="en">Viasat History HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hits.cmore.dk">
+<display-name lang="da">C More Hits (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hr.daserste.de">
+<display-name lang="de">hr-fernsehen</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="htv2.hrt.hr">
+<display-name lang="hr">HTV 2</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="htv4.hrt.hr">
+<display-name lang="hr">HTV 4</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="int.kinopolskamuzyka.pl">
+<display-name lang="en">KinoPolska Muzyka International</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="investigation.discovery.dk">
+<display-name lang="da">Investigation Discovery (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="kabel1.de">
+<display-name lang="en">kabel eins</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="kanal5.dk">
+<display-name lang="da">Kanal 5 (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="kika.daserste.de">
+<display-name lang="de">KiKA</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="kunskapskanalen.svt.se">
+<display-name lang="sv">Kunskapskanalen</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="langbolge.dr.dk">
+<display-name lang="da">DR Langbolge</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="max.tv3.dk">
+<display-name lang="da">TV3 MAX (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="mezzo.tv">
+<display-name lang="en">Mezzo</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="mtv.dk">
+<display-name lang="da">MTV (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="munster.wdr.daserste.de">
+<display-name lang="de">WDR Munster</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="natgeo.dk">
+<display-name lang="en">National Geographic (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="naturehd.viasat.dk">
+<display-name lang="en">Viasat Nature HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="ndr.daserste.de">
+<display-name lang="de">NDR Fernsehen Hamburg</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="news.tv2.dk">
+<display-name lang="da">TV2 News</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="nickelodeon.dk">
+<display-name lang="da">Nickelodeon (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="nickno-vh1classic.sat.viasat.no">
+<display-name lang="en">Nick. Norway / VH1 Classic (Satellite)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="nordjylland.p4.dr.dk">
+<display-name lang="da">DR P4 Nordjylland</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="nrk2.nrk.no">
+<display-name lang="nb">NRK2</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="one.tv3sport.dk">
+<display-name lang="da">TV3 Sport (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="orf3.orf.at">
+<display-name lang="de">ORF3</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="outdoorchannel.com">
+<display-name lang="en">Outdoor Channel HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="p2.dr.dk">
+<display-name lang="da">DR P2</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="p5.dr.dk">
+<display-name lang="da">DR P5</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="p8.dr.dk">
+<display-name lang="da">DR P8 JAZZ</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="polonia.tvp.pl">
+<display-name lang="pl">TVP Polonia</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="protv.ro">
+<display-name lang="en">ProTV International</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="radiobremen.tv">
+<display-name lang="de">Radio Bremen TV</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="rocks.mtv.se">
+<display-name lang="en">MTV Rocks</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="rtl.de">
+<display-name lang="de">RTL</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="russia.rt.com">
+<display-name lang="en">RT Russia</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="sachsen.mdr.daserste.de">
+<display-name lang="de">MDR SACHSEN</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="science.discovery.dk">
+<display-name lang="da">Discovery Science (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="series.cmore.dk">
+<display-name lang="da">C More Series (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="sf-kanalen.cmore.dk">
+<display-name lang="da">SF-Kanalen (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="siegen.wdr.daserste.de">
+<display-name lang="de">WDR Siegen</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="sport.tv2.dk">
+<display-name lang="da">TV2 Sport (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="sportx.tv2.dk">
+<display-name lang="da">TV2 Sport X (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="supertv.nrk.no">
+<display-name lang="nb">NRK Super TV</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="svt2.svt.se">
+<display-name lang="en">SVT2</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="svt24hd.svt.se">
+<display-name lang="sv">SVT24 HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="svtbhd.svt.se">
+<display-name lang="sv">SVT Barn HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tlc.discovery.dk">
+<display-name lang="da">TLC (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="travelchanneltv.eu">
+<display-name lang="en">Travel Channel (English)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="trekanten.p4.dr.dk">
+<display-name lang="da">DR P4 Trekanten</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tv2.no">
+<display-name lang="nb">TV2 (NO)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tv2fyn.dk">
+<display-name lang="da">TV2/Fyn</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tv2nord.dk">
+<display-name lang="da">TV2/Nord</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tv3.dk">
+<display-name lang="da">TV3 (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tv3plus.dk">
+<display-name lang="da">TV3+</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tv6.se">
+<display-name lang="sv">TV6 (SE)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tvfinland.yle.fi">
+<display-name lang="fi">TV Finland</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tvsyd.dk">
+<display-name lang="da">TV SYD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="urbanint.trace.tv">
+<display-name lang="en">TRACE Urban International</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="vh1.mtv.dk">
+<display-name lang="da">VH1 (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="wdr.daserste.de">
+<display-name lang="de">WDR Koln</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="world.kbs.co.kr">
+<display-name lang="en">KBS World (English)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="xee.fox.com">
+<display-name lang="en">XEE</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="xtra2.viasat.dk">
+<display-name lang="da">V sport live 2 (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="xtra4.viasat.dk">
+<display-name lang="da">V sport live 4 (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="zdf.de">
+<display-name lang="de">ZDF HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="zulu.tv2.dk">
+<display-name lang="da">TV2 ZULU</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="xtra5.viasat.dk">
+<display-name lang="da">V sport live 5 (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="xtra3.viasat.dk">
+<display-name lang="da">V sport live 3 (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="xtra1.viasat.dk">
+<display-name lang="da">V sport live 1 (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="wuppertal.wdr.daserste.de">
+<display-name lang="de">WDR Wuppertal</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="wild.natgeo.dk">
+<display-name lang="en">Nat. Geo. Wild (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="vox.de">
+<display-name lang="de">VOX (DE)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="vh1.eu">
+<display-name lang="en">VH1</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="ultrahd.viasat.dk">
+<display-name lang="da">V sport ultra HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tvmidtvest.dk">
+<display-name lang="da">TV/MIDT-VEST</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tveast.dk">
+<display-name lang="da">TV Ost</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tv4.se">
+<display-name lang="sv">TV4</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tv3.no">
+<display-name lang="nb">TV3 (NO)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tv2oj.dk">
+<display-name lang="da">TV2 OJ</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tv2lorry.dk">
+<display-name lang="da">TV2/Lorry</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tv2bornholm.dk">
+<display-name lang="da">TV2/Bornholm</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="tv2.dk">
+<display-name lang="da">TV2 (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="travelchanneltv.se">
+<display-name lang="sv">Travel Channel (SE)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="toons.nickelodeon.dk">
+<display-name lang="da">Nicktoons (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="syd.p4.dr.dk">
+<display-name lang="da">DR P4 Syd</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="svtb.svt.se">
+<display-name lang="sv">SVT Barn</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="svt24.svt.se">
+<display-name lang="en">SVT24</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="svt1.svt.se">
+<display-name lang="en">SVT1</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="sr.swr.daserste.de">
+<display-name lang="de">SR Fernsehen</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="sporthd.tv2.dk">
+<display-name lang="en">TV2 Sport HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="sjaelland.p4.dr.dk">
+<display-name lang="da">DR P4 Sjaelland</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="sh.ndr.daserste.de">
+<display-name lang="de">NDR Fernsehen Schleswig-Holstein</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="series.viasat.dk">
+<display-name lang="da">V series (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="science.discovery.fi">
+<display-name lang="en">Discovery Science (English)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="sat1.de">
+<display-name lang="en">SAT.1</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="s-anhalt.mdr.daserste.de">
+<display-name lang="de">MDR S-ANHALT</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="rtl2.de">
+<display-name lang="de">RTL2</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="rp.swr.daserste.de">
+<display-name lang="de">SWR RP</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="ramasjang.dr.dk">
+<display-name lang="da">DR Ramasjang</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="puls.tv3.dk">
+<display-name lang="da">TV3 Puls</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="prosieben.de">
+<display-name lang="en">ProSieben</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="phoenix.daserste.de">
+<display-name lang="de">Phoenix</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="p6.dr.dk">
+<display-name lang="da">DR P6 BEAT</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="p3.dr.dk">
+<display-name lang="da">DR P3</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="p1.dr.dk">
+<display-name lang="da">DR P1</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="ostjylland.p4.dr.dk">
+<display-name lang="da">DR P4 Ostjylland</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="onehd.tv3sport.dk">
+<display-name lang="en">TV3 SPORT HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="nrk3.nrk.no">
+<display-name lang="nb">NRK3</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="nrk1.nrk.no">
+<display-name lang="nb">NRK1</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="nord.bfs.daserste.de">
+<display-name lang="de">Bayerisches FS Nord</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="nickjr.dk">
+<display-name lang="da">Nick Jr. (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="nickdk-mtvhits.sat.viasat.dk">
+<display-name lang="en">Nick. Denmark / MTV Hits (Satellite)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="nds.ndr.daserste.de">
+<display-name lang="de">NDR Fernsehen Niedersachsen</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="nauticalchannel.net">
+<display-name lang="en">Nautical Channel</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="nature.viasat.dk">
+<display-name lang="da">Viasat Nature (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="mv.ndr.daserste.de">
+<display-name lang="de">NDR Fernsehen Mecklenburg-Vorpommern</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="mtvbase.uk.tv.xmltv.se">
+<display-name lang="en">MTV Base (UK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="midtvest.p4.dr.dk">
+<display-name lang="da">DR P4 Midt & Vest</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="mdr.daserste.de">
+<display-name lang="de">MDR THURINGEN</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="luxe.tv">
+<display-name lang="en">LuxeTV</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="kunskapskanalenhd.svt.se">
+<display-name lang="sv">Kunskapskanalen HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="kobenhavn.p4.dr.dk">
+<display-name lang="da">DR P4 Kobenhavn</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="kanalhovedstaden.dk">
+<display-name lang="da">Kanal Hovedstaden</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="kanal4.dk">
+<display-name lang="da">Kanal 4 (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="junior.disneychannel.dk">
+<display-name lang="en">Disney Junior (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="international.rt.com">
+<display-name lang="en">RT International</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="int.kinopolska.pl">
+<display-name lang="en">KinoPolska International</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="htv3.hrt.hr">
+<display-name lang="hr">HTV 3</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="htv1.hrt.hr">
+<display-name lang="hr">HTV 1</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hits.film.viasat.dk">
+<display-name lang="da">V film hits (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="historytv.dk">
+<display-name lang="en">History (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="history.viasat.dk">
+<display-name lang="da">Viasat History (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.vox.de">
+<display-name lang="en">VOX HD (DE)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.series.cmore.dk">
+<display-name lang="da">C More Series HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.rtl.de">
+<display-name lang="en">RTL HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.mtv.se">
+<display-name lang="en">MTV Live HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.kanal5.dk">
+<display-name lang="en">Kanal 5 HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.hits.cmore.dk">
+<display-name lang="da">C More Hits HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.disneychannel.dk">
+<display-name lang="en">Disney Channel HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.daserste.de">
+<display-name lang="de">Das Erste HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.bbcentertainment.dk">
+<display-name lang="en">BBC Brit HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.animalplanet.discovery.dk">
+<display-name lang="en">Animal Planet HD (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="hd.3sat.de">
+<display-name lang="en">3sat HD (DE)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="guld.tv4.se">
+<display-name lang="sv">TV4 Guld</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="golf.viasat.dk">
+<display-name lang="da">V sport golf (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="ginx.tv">
+<display-name lang="en">Ginx</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="fuel.tv">
+<display-name lang="en">FUEL TV</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="fsf.fightsports.tv">
+<display-name lang="en">Fight Sports</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="france24.com">
+<display-name lang="en">France24 (English)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="first.cmore.dk">
+<display-name lang="da">C More First (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="filmboxplus.spi.pl">
+<display-name lang="en">FilmBox Extra (RO)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="filmboxfamily.spi.pl">
+<display-name lang="en">FilmBox Family (RO)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="film.viasat.dk">
+<display-name lang="da">V film premiere (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="fightbox.spi.pl">
+<display-name lang="en">FightBox</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="fashionbox.spi.pl">
+<display-name lang="en">FashionBox</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="fakta.tv4.se">
+<display-name lang="sv">TV4 Fakta</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="explorer.viasat.dk">
+<display-name lang="da">Viasat Explore (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="eurosport.sbstv.dk">
+<display-name lang="da">Eurosport 2 Danmark</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="europe.realitykings.com">
+<display-name lang="en">Reality Kings Europe</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="europe.hustlertv.com">
+<display-name lang="en">HustlerTV</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="europe.cnbc.com">
+<display-name lang="en">CNBC Europe</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="europe.bloomberg.com">
+<display-name lang="en">Bloomberg Europe</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="euronews.com">
+<display-name lang="en">Euronews</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="esbjerg.p4.dr.dk">
+<display-name lang="da">DR P4 Esbjerg</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="erox.spi.pl">
+<display-name lang="en">Erox</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="en.discovery.dk">
+<display-name lang="en">Discovery Channel (DK) (English)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="einsfestival.daserste.de">
+<display-name lang="de">ONE</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="dw.de">
+<display-name lang="en">DW (Europe)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="duisburg.wdr.daserste.de">
+<display-name lang="de">WDR Duisburg</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="dr1hd.dr.dk">
+<display-name lang="en">DR1 HD</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="dortmund.wdr.daserste.de">
+<display-name lang="de">WDR Dortmund</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="dk4.dk">
+<display-name lang="da">DK4</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="disneychannel.dk">
+<display-name lang="en">Disney Channel (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="daserste.de">
+<display-name lang="en">Das Erste</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="comedycentral.dk">
+<display-name lang="da">Paramount Network (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="classic.uptown.dk">
+<display-name lang="en">Uptown Classic</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="cbsreality.tv">
+<display-name lang="en">CBS Reality</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="canal24h.rtve.es">
+<display-name lang="en">Canal 24 Horas</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="brazzerstveurope.com">
+<display-name lang="en">Brazzers TV Europe</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="br-alpha.daserste.de">
+<display-name lang="de">ARD-alpha</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="bonn.wdr.daserste.de">
+<display-name lang="de">WDR Bonn</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="bfs.daserste.de">
+<display-name lang="de">Bayerisches FS Sud</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="bbcknowledge.dk">
+<display-name lang="en">BBC Earth (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="arthouse.spi.pl">
+<display-name lang="en">Arthouse</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="ar.france24.com">
+<display-name lang="en">France24 (Arabic)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="animalplanet.discovery.dk">
+<display-name lang="da">Animal Planet (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="action.film.viasat.dk">
+<display-name lang="da">V film action (DK)</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="aachen.wdr.daserste.de">
+<display-name lang="de">WDR Aachen</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+<channel id="360tunebox.spi.pl">
+<display-name lang="en">360 TuneBox</display-name>
+<base-url>http://xmltv.xmltv.se/</base-url>
+</channel>
+</tv>
